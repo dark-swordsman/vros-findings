@@ -11,7 +11,7 @@ As mentioned in [the video I made about it](https://www.youtube.com/watch?v=RHUW
 5. I expressed my concerns in my second message.
 6. In their second and last message to me, they told me that I was misunderstanding, and that the changes they made were just one change they noticed.
 
-They did not thank me for my inputs. They did not tell me that they used my document. Within 1 hour, they went from having no idea who I was, to implementing some changes I suggested without peer-reviewing or deeply considering the changes.
+They did not thank me for my inputs (in a context suggesting they used them directly). They did not tell me that they used my document. Within 1 hour, they went from having no idea who I was, to implementing some changes I suggested without peer-reviewing or deeply considering the changes.
 
 This is a problem. They are the security hole. I could have just as easily crafted a convincing narrative that allowed me to convince Claude that my changes were better, and actually abused the security hole that I found. I could have had them push changes that were malicious, and I could have gained some level of access to people's computers.
 
